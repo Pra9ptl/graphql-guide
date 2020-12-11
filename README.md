@@ -1,6 +1,8 @@
 # graphql-guide
 
 # Writing query fragements ==> 
+
+```
 {
   apple: company(id: "2") {
     ...companyDetails
@@ -15,4 +17,4 @@ fragment companyDetails on Company {
   name
   description
 }
-
+```
