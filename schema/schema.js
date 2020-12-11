@@ -11,7 +11,7 @@ const {
 const users = [
     { id: '23', firstName: "Pranav", age: 24 },
     { id: '47', firstName: "Rutuj", age: 23 },
-    { id: '23', firstName: "Dhruvin", age: 22 }
+    { id: '28', firstName: "Dhruvin", age: 22 }
 ];
 
 
