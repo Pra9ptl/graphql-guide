@@ -1,5 +1,6 @@
 # graphql-guide
 
+>> /intro-graphql --> code for backend
 # Writing query fragements ==> 
 
 ```
@@ -38,3 +39,5 @@ mutation {
   }
 }
 ```
+
+>> /lyrical-graphql --> code for frontend
